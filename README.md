@@ -1,0 +1,2 @@
+# zabbix_agentd_shell
+zabbix_agentd_shell
